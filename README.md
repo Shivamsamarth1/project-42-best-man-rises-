@@ -1,2 +1,2 @@
-# project-42-best-man-rises-
-project 42
+# Project-42
+Bestman Rises
